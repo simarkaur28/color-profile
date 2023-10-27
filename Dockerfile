@@ -1,4 +1,4 @@
-FROM node:lts
+FROM node:21.0-bookworm-slim
 
 WORKDIR /color_profile
 
